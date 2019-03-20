@@ -27,7 +27,7 @@ End of the Day 1
 
 # inkjetprinter
 
-![inkjetprinter]inkjetprinter.jpeg)
+![inkjetprinter](inkjetprinter.jpeg)
 
 # lasercutter
 
