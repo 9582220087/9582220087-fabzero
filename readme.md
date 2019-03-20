@@ -15,14 +15,14 @@ End of the Day 1
  
  # 3dprinter
 
-![3dprinter](3dprinter.jpg.jpg)
+![3dprinter](3dprinter.jpeg)
 
 # bandsaw1
-![bandsaw1](bandsaw1.jpg.jpg)
+![bandsaw1](bandsaw1.jpeg)
 
 # bandsaw2
 
-![bandsaw2](bandsaw2.jpg.jpg)
+![bandsaw2](bandsaw2.jpeg)
 
 # inkjetprinter
 
@@ -30,15 +30,15 @@ End of the Day 1
 
 # lasercutter
 
-![lasercutter](lasercutter.jpg.jpg)
+![lasercutter](lasercutter.jpeg)
 
 # laserfilter
 
-![laserfilter](laserfilter.jpg.jpg)
+![laserfilter](laserfilter.jpeg)
 
 # stereolythographyprinter
 
-![stereolythographyprinter](stereolythographyprinter.jpg.jpg)
+![stereolythographyprinter](stereolythographyprinter.jpeg)
 
 
 ## Download inkscape software:
