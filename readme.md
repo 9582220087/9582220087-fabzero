@@ -12,34 +12,34 @@ End of the Day 1
 
 # vinaylcutter
 
-![vinaylcutter](vinaylcutter.jpg.jpeg)
+![vinaylcutter](img/vinaylcutter.jpg.jpeg)
 
  # 3dprinter
 
-![3dprinter](3dprinter.jpeg)
+![3dprinter](img/3dprinter.jpeg)
 
 # bandsaw1
-![bandsaw1](bandsaw1.jpeg)
+![bandsaw1](img/bandsaw1.jpeg)
 
 # bandsaw2
 
-![bandsaw2](bandsaw2.jpeg)
+![bandsaw2](img/bandsaw2.jpeg)
 
 # inkjetprinter
 
-![inkjetprinter](inkjetprinter.jpeg.)
+![inkjetprinter](img/inkjetprinter.jpeg)
 
 # lasercutter
 
-![lasercutter](lasercutter.jpeg)
+![lasercutter](img/lasercutter.jpeg)
 
 # laserfilter
 
-![laserfilter](laserfilter.jpeg)
+![laserfilter](img/laserfilter.jpeg)
 
 # stereolythographyprinter
 
-![stereolythographyprinter](stereolythographyprinter.jpeg)
+![stereolythographyprinter](img/stereolythographyprinter.jpeg)
 
 
 ## Download inkscape software:
