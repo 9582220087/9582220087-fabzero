@@ -13,7 +13,7 @@ End of the Day 1
 # vinaylcutter
 
 ![vinaylcutter](vinaylcutter.jpg.jpeg)
- 
+
  # 3dprinter
 
 ![3dprinter](3dprinter.jpeg)
@@ -27,7 +27,7 @@ End of the Day 1
 
 # inkjetprinter
 
-![inkjetprinter]inkjetprinter.jpg.jpg)
+![inkjetprinter]inkjetprinter.jpeg)
 
 # lasercutter
 
