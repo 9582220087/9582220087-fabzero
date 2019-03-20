@@ -11,7 +11,7 @@ End of the Day 1
 # Day 2 # Upload image
 
 ![vinaylcutter](vinaylcutter.jpg.jpeg)
-![saurabh](saurabh.jpg)
+![saurabh](saurabh.jpg.jpg)
 
 ## Download inkscape software:
 ### Inkscape is quality vector graphics software which runs on Windows, Mac OS and Linux operating system. It is used to design a wide variety of graphics such as icons, logos, diagrams. Inkscape uses the W3C open standard SVG (Scalable Vector Graphics)  and is free and open-source software.
