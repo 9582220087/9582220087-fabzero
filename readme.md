@@ -9,9 +9,37 @@
 End of the Day 1
 
 # Day 2 # Upload image
+# vinaylcutter
 
 ![vinaylcutter](vinaylcutter.jpg.jpeg)
-![saurabh](saurabh.jpg.jpg)
+ 
+ # 3dprinter
+
+![3dprinter](3dprinter.jpg.jpg)
+
+# bandsaw1
+![bandsaw1](bandsaw1.jpg.jpg)
+
+# bandsaw2
+
+![bandsaw2](bandsaw2.jpg.jpg)
+
+# inkjetprinter
+
+![inkjetprinter]inkjetprinter.jpg.jpg)
+
+# lasercutter
+
+![lasercutter](lasercutter.jpg.jpg)
+
+# laserfilter
+
+![laserfilter](laserfilter.jpg.jpg)
+
+# stereolythographyprinter
+
+![stereolythographyprinter](stereolythographyprinter.jpg.jpg)
+
 
 ## Download inkscape software:
 ### Inkscape is quality vector graphics software which runs on Windows, Mac OS and Linux operating system. It is used to design a wide variety of graphics such as icons, logos, diagrams. Inkscape uses the W3C open standard SVG (Scalable Vector Graphics)  and is free and open-source software.
