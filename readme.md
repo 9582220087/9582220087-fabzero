@@ -47,20 +47,17 @@ End of the Day 1
 
 ## Download cura software
 ### Cura is used for 3D printing. Cura creates a seamless integration between your 3D printer, software and materials to achieve perfect prints every time. 3 steps to printing a 3D model design prepare and print.
-# Society faces enormous challenges in constructing a high-quality, future-oriented built environment. Construction sites today, still look much like building sites at the beginning of the 20th century. Current research on digital fabrication in architecture indicates that the development and integration of innovative digital technologies within architectural and construction processes could transform the building industry - on the verge of a building industry 4.0. Digital technologies in architecture and construction could increase productivity and create new jobs.
 
-# Digital Fabrication 101
 
-in Tutorials 
+# Introduction:
 
-### Digital fabrication is a design and manufacturing workflow where digital data directly drives manufacturing equipment to form various part geometries. This data most often comes from CAD (computer-aided design), which is then transferred to CAM (computer-aided manufacturing) software. The output of CAM software is data that directs a specific machine, like a 3D printer or CNC milling machine.
+Society faces enormous challenges in constructing a high-quality, future-oriented built environment. Current research on digital fabrication in architecture indicates that the development and integration of innovative digital technologies within architectural and construction processes could transform the building industry - on the verge of a building industry 4.0. Digital technologies in architecture and construction could increase productivity and create new jobs.
 
-### A wide variety of digital fabrication tools exist, from hobbyist-level machines to large-scale, specialized industrial equipment used in manufacturing. This guide focuses on the most common tools suitable for professional workspaces, machine shops, and workshops
+Digital fabrication is a design and manufacturing workflow where digital data directly drives manufacturing equipment to form various part geometries. This data most often comes from CAD (computer-aided design), which is then transferred to CAM (computer-aided manufacturing) software. The output of CAM software is data that directs a specific machine, like a 3D printer or CNC milling machine.
 
-### Accessible digital fabrication tools bridge the gap between design and manufacturing. As barriers to professional-level tech lowers, it’s easier for anyone with the skills to design a product to also fabricate it, empowering engineers, product designers, and businesses of all sizes to produce anything from prototypes to final products.
+A wide variety of digital fabrication tools exist, from hobbyist-level machines to large-scale, specialized industrial equipment used in manufacturing. This guide focuses on the most common tools suitable for professional workspaces, machine shops, and workshops
 
-### In this definitive guide, learn the ins and outs of digital fabrication from workflows to digital fabrication tools and practical tips for getting started.
-
+Accessible digital fabrication tools bridge the gap between design and manufacturing. As barriers to professional-level tech lowers, it’s easier for anyone with the skills to design a product to also fabricate it, empowering engineers, product designers, and businesses of all sizes to produce anything from prototypes to final products.
 
 # How Does Digital Fabrication Work?
 
@@ -74,21 +71,15 @@ Print preparation software or slicer software serves as the intermediate between
 
 ## 3. Fabricate
 
-### Fabrication tools manufacture parts based on the CAM data, with little or no human assistance or interaction. The fabricated parts might require some form of finishing to achieve their final properties and look before they’re ready to use. 
+Fabrication tools manufacture parts based on the CAM data, with little or no human assistance or interaction. The fabricated parts might require some form of finishing to achieve their final properties and look before they’re ready to use. 
 
 # Digital Fabrication Tools
 
 ## 3D Printers
 
-### 3D printing or additive manufacturing (AM) technologies create parts by successively adding material layer by layer until a physical part is created.
+3D printing or additive manufacturing (AM) technologies create parts by successively adding material layer by layer until a physical part is created.
 
-# Digital Fabrication Tools
+Fused deposition modeling (FDM) 3D printers melt and extrude thermoplastic filament, which a print nozzle then deposits layer by layer in the build area. FDM is the most affordable 3D printing technology with entry-level hobbyist machines starting below $1,000, and mid-range machines selling for $2,500. FDM parts have the lowest resolution and accuracy compared to other plastic 3D printers, making these machines a better fit for basic proof-of-concept models and quick, low-cost prototyping of simple parts than for refined prototypes or final products.
 
-## 3D Printers
-
-### 3D printing or additive manufacturing (AM) technologies create parts by successively adding material layer by layer until a physical part is created.
-
-### Fused deposition modeling (FDM) 3D printers melt and extrude thermoplastic filament, which a print nozzle then deposits layer by layer in the build area. FDM is the most affordable 3D printing technology with entry-level hobbyist machines starting below $1,000, and mid-range machines selling for $2,500. FDM parts have the lowest resolution and accuracy compared to other plastic 3D printers, making these machines a better fit for basic proof-of-concept models and quick, low-cost prototyping of simple parts than for refined prototypes or final products.
-
-### Stereolithography (SLA) uses a laser to cure liquid resin into hardened plastic in a process called photopolymerization. SLA parts are highly accurate, have fine details, smooth surface finish, and isotropic material properties. SLA 3D printing is ideal for complex designs, functional prototypes, manufacturing tooling, and casting patterns. Starting around $3,500, desktop SLA printers are highly versatile tools that are easy to use and accessible to professional users.
+Stereolithography (SLA) uses a laser to cure liquid resin into hardened plastic in a process called photopolymerization. SLA parts are highly accurate, have fine details, smooth surface finish, and isotropic material properties. SLA 3D printing is ideal for complex designs, functional prototypes, manufacturing tooling, and casting patterns. Starting around $3,500, desktop SLA printers are highly versatile tools that are easy to use and accessible to professional users.
 
