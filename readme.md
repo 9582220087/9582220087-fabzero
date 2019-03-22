@@ -47,3 +47,4 @@ End of the Day 1
 
 ## Download cura software
 ### Cura is used for 3D printing. Cura creates a seamless integration between your 3D printer, software and materials to achieve perfect prints every time. 3 steps to printing a 3D model design prepare and print.
+# Society faces enormous challenges in constructing a high-quality, future-oriented built environment. Construction sites today, still look much like building sites at the beginning of the 20th century. Current research on digital fabrication in architecture indicates that the development and integration of innovative digital technologies within architectural and construction processes could transform the building industry - on the verge of a building industry 4.0. Digital technologies in architecture and construction could increase productivity and create new jobs.
