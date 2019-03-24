@@ -4,16 +4,8 @@
 [2. How Does Digital Fabrication Work?](work.md)
 
 [3. Digital Fabrication Tools](tools.md) 
-    
-    A. 3D Printers
-    
-    B. Stereolithography (SLA)
-    
-    C. Vinyl Cutter
-    
-    D. 
 
-4. Design Tools
+[4. Design Tools](design.md)
     
     A. Inkscape
     
