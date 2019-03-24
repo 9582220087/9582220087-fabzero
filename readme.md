@@ -80,7 +80,7 @@ A vinyl cutter is a machine controlled by the computer. It is look like a just d
 
 
 
-# How Does Digital Fabrication Work?
+[How Does Digital Fabrication Work?](digital fabrication works.md)
 
 ## 1. Design:
 
