@@ -78,9 +78,7 @@ A vinyl cutter is a machine controlled by the computer. It is look like a just d
 ### Cura is used for 3D printing. Cura creates a seamless integration between your 3D printer, software and materials to achieve perfect prints every time. 3 steps to printing a 3D model design prepare and print.
 
 
-
-
-[How Does Digital Fabrication Work?](digital fabrication works.md)
+[2. How Does Digital Fabrication Work?](digitalfabricationworks.md)
 
 ## 1. Design:
 
