@@ -63,29 +63,29 @@ Accessible digital fabrication tools bridge the gap between design and manufactu
 
 # How Does Digital Fabrication Work?
 
-## 1. Design
+## 1. Design:
 
 The first step is to create a virtual model of a design using CAD software. To serve as input for the fabrication tool, the 3D model is exported as a triangulated mesh, which uniformly describes the geometry in terms of points on the surface or vertices, the faces between those vertices, the edges of those faces, and in some cases, the normal vectors and color information pertaining to the faces.
 
-## 2. Prepare
+## 2. Prepare:
 
 Print preparation software or slicer software serves as the intermediate between the virtual mesh and the fabricated model for 3D printing. In this step, manufacturing parameters and settings specific to the fabrication tool are added to provide essentially a list of instructions for the machine to follow, resulting in a CAM file that’s sent to the machine. In machining operations, software simulation is combined with user input to generate toolpaths that will guide the cutting tool through the part geometry, taking into account speed of the cutting tool and feed rate of the material.
 
-## 3. Fabricate
+## 3. Fabricate:
 
 Fabrication tools manufacture parts based on the CAM data, with little or no human assistance or interaction. The fabricated parts might require some form of finishing to achieve their final properties and look before they’re ready to use. 
 
-# Digital Fabrication Tools
+# Digital Fabrication Tools:
 
-## 3D Printers
+## 3D Printers:
 
 3D printing or additive manufacturing (AM) technologies create parts by successively adding material layer by layer until a physical part is created.
 
-## Fused deposition modeling (FDM)
+## Fused deposition modeling (FDM):
 
 Fused deposition modeling (FDM) 3D printers melt and extrude thermoplastic filament, which a print nozzle then deposits layer by layer in the build area. FDM is the most affordable 3D printing technology with entry-level hobbyist machines starting below $1,000, and mid-range machines selling for $2,500. FDM parts have the lowest resolution and accuracy compared to other plastic 3D printers, making these machines a better fit for basic proof-of-concept models and quick, low-cost prototyping of simple parts than for refined prototypes or final products.
 
-## Stereolithography (SLA)
+## Stereolithography (SLA):
 
 Stereolithography (SLA) uses a laser to cure liquid resin into hardened plastic in a process called photopolymerization. SLA parts are highly accurate, have fine details, smooth surface finish, and isotropic material properties. SLA 3D printing is ideal for complex designs, functional prototypes, manufacturing tooling, and casting patterns. Starting around $3,500, desktop SLA printers are highly versatile tools that are easy to use and accessible to professional users.
 
