@@ -78,15 +78,7 @@ A vinyl cutter is a machine controlled by the computer. It is look like a just d
 ### Cura is used for 3D printing. Cura creates a seamless integration between your 3D printer, software and materials to achieve perfect prints every time. 3 steps to printing a 3D model design prepare and print.
 
 
-# Introduction:
 
-Society faces enormous challenges in constructing a high-quality, future-oriented built environment. Current research on digital fabrication in architecture indicates that the development and integration of innovative digital technologies within architectural and construction processes could transform the building industry - on the verge of a building industry 4.0. Digital technologies in architecture and construction could increase productivity and create new jobs.
-
-Digital fabrication is a design and manufacturing workflow where digital data directly drives manufacturing equipment to form various part geometries. This data most often comes from CAD (computer-aided design), which is then transferred to CAM (computer-aided manufacturing) software. The output of CAM software is data that directs a specific machine, like a 3D printer or CNC milling machine.
-
-A wide variety of digital fabrication tools exist, from hobbyist-level machines to large-scale, specialized industrial equipment used in manufacturing. This guide focuses on the most common tools suitable for professional workspaces, machine shops, and workshops
-
-Accessible digital fabrication tools bridge the gap between design and manufacturing. As barriers to professional-level tech lowers, it’s easier for anyone with the skills to design a product to also fabricate it, empowering engineers, product designers, and businesses of all sizes to produce anything from prototypes to final products.
 
 # How Does Digital Fabrication Work?
 
