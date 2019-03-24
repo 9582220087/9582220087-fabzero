@@ -1,7 +1,7 @@
  
  [1. Introduction about digital fabrication lab](Introduction.md)
 
-[2. How Does Digital Fabrication Work?](digitalfab.md)
+[2. How Does Digital Fabrication Work?](work.md)
 
     A. Design
     
