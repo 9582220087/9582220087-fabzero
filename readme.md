@@ -10,7 +10,9 @@ End of the Day 1
 
 # Day 2 # Upload image
 
-# vinaylcutter
+# Vinyl Cutter:
+
+A vinyl cutter is a machine controlled by the computer. It is look like a just desktop computer. The movement of the sharp blade over the surface of the material is control by the computer.   
 
 ![vinaylcutter](img/vinaylcutter.jpg.jpeg)
 
