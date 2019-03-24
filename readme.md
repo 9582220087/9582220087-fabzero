@@ -16,30 +16,30 @@ A vinyl cutter is a machine controlled by the computer. It is look like a just d
 
 ![vinaylcutter](img/vinaylcutter.jpg.jpeg)
 
- # 3dprinter
+ # 3D Printer:
 
 ![3dprinter](img/3dprinter.jpeg)
 
-# bandsaw1
+# Bandsaw type 1
 ![bandsaw1](img/bandsaw1.jpeg)
 
-# bandsaw2
+# Bandsaw Type 2
 
 ![bandsaw2](img/bandsaw2.jpeg)
 
-# inkjetprinter
+# Inkjetprinter:
 
 ![inkjetprinter](img/inkjetprinter.jpeg)
 
-# lasercutter
+# Lasercutter
 
 ![lasercutter](img/lasercutter.jpeg)
 
-# laserfilter
+# Laserfilter
 
 ![laserfilter](img/laserfilter.jpeg)
 
-# stereolythographyprinter
+# Stereolithography Printer:
 
 ![stereolythographyprinter](img/stereolythographyprinter.jpeg)
 
