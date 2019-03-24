@@ -3,12 +3,7 @@
 
 [2. How Does Digital Fabrication Work?](work.md)
 
-    A. Design
-    
-    B. Prepare
-    
-    C. Fabricate
-3. Digital Fabrication Tools: 
+[3. Digital Fabrication Tools](tools) 
     
     A. 3D Printers
     
