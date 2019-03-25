@@ -7,10 +7,3 @@
 [4. Digital Fabrication Tools](tools.md) 
 
 [5. Design Tools (software used)](design.md)
-    
-    A. Inkscape
-    
-    B. 3D WOX Desktop
-    
-    C. KiCAD    
-
