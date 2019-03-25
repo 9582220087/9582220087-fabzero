@@ -1,5 +1,5 @@
 # Saurabh Kumar Tiwari STPI Gurugram
-![Saurabh Kumar Tiwari](img/saurabh.jpg)
+![Saurabh Kumar Tiwari](img/saurabhpic.jpg)
 
 - Date : 18.03.2019 Time 10:00AM
 - Trainer Mr Fransisco from Spain and Mr Shibu from Kerala
