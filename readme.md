@@ -25,7 +25,7 @@ A brief Introduction about the digital fabrication lab given by the trainer and 
 
 # Day 2 # Upload image
 
-# Vinyl Cutter:
+[Vinayl Cutter](vinaylcutter.md) :
 
 A vinyl cutter is a machine controlled by the computer. It is look like a just desktop computer. The movement of the sharp blade over the surface of the material is control by the computer.   
 
