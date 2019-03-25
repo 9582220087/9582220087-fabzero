@@ -6,7 +6,7 @@
 
 [4. Digital Fabrication Tools](tools.md) 
 
-[5. Design Tools](design.md)
+[5. Design Tools (software used)](design.md)
     
     A. Inkscape
     
