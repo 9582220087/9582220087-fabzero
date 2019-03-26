@@ -12,3 +12,6 @@ Cura is used for 3D printing. Cura creates a seamless integration between your 3
 
 ### KiCAD:
 KiCad is a free software used for electronic design automation. It facilitates the design of schematics for electronic circuits and their conversion to PCB designs. It features an integrated environment for schematic capture and PCB layout design
+
+### FreeCAD:
+FreeCAD is a free and open-source general-purpose parametric 3D CAD modeler and a building information modeling software with finite-element-method suppor
