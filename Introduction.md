@@ -2,7 +2,9 @@
 
 Society faces enormous challenges in constructing a high-quality, future-oriented built environment. Current research on digital fabrication in architecture indicates that the development and integration of innovative digital technologies within architectural and construction processes could transform the building industry - on the verge of a building industry 4.0. Digital technologies in architecture and construction could increase productivity and create new jobs.
 
-A digital fabrication lab is just like a workshop for personal digital fabrication and the aim of this digital fabrication lab is to make "almost anything".
+A digital fabrication lab is just like a workshop for personal digital fabrication and the aim of digital fabrication lab is to make "almost anything". A digital fab lab have potential to empower individuals to create smart device for themselves and it is limited to mass production.
+
+The fab lab movement is closely aligned with the DIY movement, open-source hardware, maker culture, and the free and open-source movement, and shares philosophy as well as technology with them.
 
 Digital fabrication is a design and manufacturing workflow where digital data directly drives manufacturing equipment to form various part geometries. This data most often comes from CAD (computer-aided design), which is then transferred to CAM (computer-aided manufacturing) software. The output of CAM software is data that directs a specific machine, like a 3D printer or CNC milling machine.
 
