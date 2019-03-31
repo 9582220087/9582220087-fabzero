@@ -17,9 +17,19 @@ Design a schematic diagram using Kicad software. Steps are as follows:
 
 - Attach a PWR_FLAG to VCC and GND 
 
-- Unused pin of the ATinny44 must be assign "no connect".\
+- Unused pin of the ATinny44 must be assign "no connect".
 
 - Annotation or Naming by clicking on  "Annotate schematic symbols" tool (choose default values).
+
+- To Edit the value of component by press E while the cursor will be above the component.
+
+- To Write the local name use the "Place Net label" icon.
+
+- Use "Generate Netlist" icon while generating the generate the netlist.
+
+- Use "Assign PCB footprints to schematic symbols" icon for assigning footprint.
+
+
 
 -
 
